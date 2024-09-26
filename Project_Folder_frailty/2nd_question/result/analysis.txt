@@ -1,0 +1,13 @@
+From the analysis, the following insights were made easier through the respective visualizations:
+
+1. Correlation Heatmap: Identifying relationships between numerical variables became straightforward. It was easy to see the positive correlation between math, reading, and writing scores, highlighting that students who do well in one subject often excel in others. This visualization made it easy to spot **multicollinearity** for model building.
+
+2. Parental Education vs. Math Scores: The bar plot made it simple to observe that students whose parents have a master's degree perform better in math, while those with parents having less education tend to score lower. The visual comparison between education levels quickly highlighted performance differences.
+
+3. Group-wise Reading Scores: The analysis of student groups via bar charts clearly showed that Group E students had the highest average reading scores, while Group A had the lowest. This made it easier to compare performance across groups visually.
+
+4. Test Preparation vs. Writing Scores: The box plot provided a clear visualization of the impact of the test preparation course on writing scores, making it easy to conclude that students who completed the course performed significantly better.
+
+5. Math and Reading Correlation: The scatter plot was particularly effective for showing the positive correlation between math and reading scores, revealing that students who excel in math tend to also excel in reading, making this relationship easy to grasp at a glance.
+
+In summary, each visualization simplified the process of drawing key insights, particularly in terms of identifying correlations, performance trends by demographic factors, and the impact of interventions like test preparation.
